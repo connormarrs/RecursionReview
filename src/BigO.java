@@ -7,7 +7,7 @@
  * We explore two different sorting algorithms - one for an unsorted array; another for sorted
  *
  */
-public class BigO {
+public class BigO{
     /**
      * Arrays- they're our simplest data structure.
      * Arrays class-helper class that has methods for computing arrays quickly

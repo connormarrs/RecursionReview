@@ -6,7 +6,7 @@
  * This class is used as an introduction to recursion and tracing recursive methods
  *
  */
-public class SubsetSums {
+public class SubsetSums{
     /**
      * This method will print out the power set of the given set a
      *

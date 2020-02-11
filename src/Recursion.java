@@ -5,7 +5,7 @@
  *
  * This class serves as a reference for a review of recursion.
  */
-public class Recursion {
+public class Recursion{
     /**
      * This is a basic recursion example
      *
